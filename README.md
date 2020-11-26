@@ -7,6 +7,6 @@
 -[Lucas Mesquita](https://github.com/mesquitakkk) 
 ***  
 * [Apresentação](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/SHOW.md)
-* [Documentação]()  
-* [Projeto]()    
+* [Documentação](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/DOC.md)  
+* [Projeto](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/PROJECTS.md)    
 ***
