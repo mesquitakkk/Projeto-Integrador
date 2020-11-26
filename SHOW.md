@@ -32,9 +32,8 @@ As próximos tópicos estão resumidos. Para mais detalhes entre em [Documentaç
 #### WEB
 <img src="https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/desenvolvimento/Screenshot_10.jpg" height="300">
 
-![dev-web](
 #### Mobile
-<img src="" height="https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/desenvolvimento/WhatsApp%20Image%202020-11-18%20at%2021.46.55.jpeg">
+<img src="https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/desenvolvimento/WhatsApp%20Image%202020-11-18%20at%2021.46.55.jpeg" height="300">
 
 ***
 ### Implementação
