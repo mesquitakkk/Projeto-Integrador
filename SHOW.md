@@ -13,7 +13,7 @@ Utilizamos para pesquisa a base de outros sites de e-commerce. Como: Mercado Liv
 ### Ferramentas utilizadas
 #### Planejamento
 Utilizamos o programa Trello como ferramenta de organização de tarefas.  
-![trello](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/planejamento/trello.jpg =300x500)  
+![trello](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/planejamento/trello.jpg | height=300)  
 #### Documentação  
 Para a montagem da documentação utilizamos o programa WordPad, que vem junto com o Windows.  
 ![wordpad](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/img/montagem%20documentação/Screenshot_9.jpg)  
