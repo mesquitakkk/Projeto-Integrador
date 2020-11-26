@@ -8,5 +8,5 @@
 ***  
 * [Apresentação](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/SHOW.md)
 * ["Documentação"](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/DOC.md)  
-* [Projeto](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/PROJECTS.md)    
+* [Códigos-fonte](https://github.com/mesquitakkk/Projeto-Integrador/blob/master/PROJECTS.md)    
 ***
